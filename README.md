@@ -1,2 +1,2 @@
 # Projeto-Site-Doceria
-                             Projeto com técnicas  Avançadas HTML e CSS
+Projeto com técnicas  Avançadas HTML e CSS
